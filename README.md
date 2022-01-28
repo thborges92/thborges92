@@ -1,4 +1,4 @@
-## Olá! Sou o Thiago Borges 👋
+## Hello World! Sou o Thiago Borges 👋
 
 - 💡 Possuo experiência na área financeira
 - 👨🏻‍💻 Atualmente sou estudante do curso de programação na Step Computer Academy
