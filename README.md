@@ -1,6 +1,6 @@
 ## Hello World! Sou o Thiago Borges 👋
 
-- 💡 Possuo experiência na área financeira
+- 💡 Possuo experiência na área financeira e fiscal
 - 👨🏻‍💻 Atualmente sou estudante do curso de programação na Step Computer Academy
 
 <div>
